@@ -22,5 +22,7 @@ public class Main {
             name = "Jared Adrian Juarez Bernal";
         }
         System.out.println("name = " + name);
+
+        // La meta de este proyecto es desarrollar una aplicacion completa por mi mismo
     }
 }
