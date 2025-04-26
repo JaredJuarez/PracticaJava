@@ -29,7 +29,7 @@ public class Primitivos {
         System.out.println("valor maximo de un long es " + Long.MAX_VALUE);
         System.out.println("valor minimo de un long es " + Long.MIN_VALUE);
         System.out.println("---------------------------------------------");
-        
 
+        //Se crearan mas apartados para realizar y seguir con este proyecto
     }
 }
